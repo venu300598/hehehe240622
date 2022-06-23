@@ -14,13 +14,13 @@ h2{font-size: 72px;margin-bottom: 30px;}
     background: rgb(200, 233, 83);
     padding: 5px;
     margin: 5px 10px;
-    border:3px solid rgb(223, 14, 14) ;
+    border:3px solid rgb(12, 11, 12) ;
     border-radius:10px;
 }
 #next{color: rgb(224, 28, 149);}
 img{height: 3-px;width: 30px;
     animation: heart 4s linear infinite;}
-#loveyou{color: rgb(201, 44, 16);}  
+#loveyou{color: rgb(228, 44, 11);}  
 img{height: 10-px;width: 80px;
     animation: heart 4s linear infinite;}  
 
