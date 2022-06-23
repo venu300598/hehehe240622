@@ -20,6 +20,9 @@ h2{font-size: 72px;margin-bottom: 30px;}
 #next{color: rgb(224, 28, 149);}
 img{height: 3-px;width: 30px;
     animation: heart 4s linear infinite;}
+#loveyou{color: rgb(201, 44, 16);}  
+img{height: 10-px;width: 80px;
+    animation: heart 4s linear infinite;}  
 
 @keyframes heart{
     0%{transform: scale(.5);}
